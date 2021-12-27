@@ -1,0 +1,16 @@
+/home/jegorjegor/programming/c#/files/z2/bin/Debug/net5.0/z2
+/home/jegorjegor/programming/c#/files/z2/bin/Debug/net5.0/z2.deps.json
+/home/jegorjegor/programming/c#/files/z2/bin/Debug/net5.0/z2.runtimeconfig.json
+/home/jegorjegor/programming/c#/files/z2/bin/Debug/net5.0/z2.runtimeconfig.dev.json
+/home/jegorjegor/programming/c#/files/z2/bin/Debug/net5.0/z2.dll
+/home/jegorjegor/programming/c#/files/z2/bin/Debug/net5.0/ref/z2.dll
+/home/jegorjegor/programming/c#/files/z2/bin/Debug/net5.0/z2.pdb
+/home/jegorjegor/programming/c#/files/z2/obj/Debug/net5.0/z2.csproj.AssemblyReference.cache
+/home/jegorjegor/programming/c#/files/z2/obj/Debug/net5.0/z2.GeneratedMSBuildEditorConfig.editorconfig
+/home/jegorjegor/programming/c#/files/z2/obj/Debug/net5.0/z2.AssemblyInfoInputs.cache
+/home/jegorjegor/programming/c#/files/z2/obj/Debug/net5.0/z2.AssemblyInfo.cs
+/home/jegorjegor/programming/c#/files/z2/obj/Debug/net5.0/z2.csproj.CoreCompileInputs.cache
+/home/jegorjegor/programming/c#/files/z2/obj/Debug/net5.0/z2.dll
+/home/jegorjegor/programming/c#/files/z2/obj/Debug/net5.0/ref/z2.dll
+/home/jegorjegor/programming/c#/files/z2/obj/Debug/net5.0/z2.pdb
+/home/jegorjegor/programming/c#/files/z2/obj/Debug/net5.0/z2.genruntimeconfig.cache
