@@ -1,0 +1,11 @@
+C:\Users\Xiaomi\Source\Repos\files\z3\bin\Debug\net48\z3.exe.config
+C:\Users\Xiaomi\Source\Repos\files\z3\bin\Debug\net48\z3.exe
+C:\Users\Xiaomi\Source\Repos\files\z3\bin\Debug\net48\z3.pdb
+C:\Users\Xiaomi\Source\Repos\files\z3\obj\Debug\net48\z3.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\Source\Repos\files\z3\obj\Debug\net48\z3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xiaomi\Source\Repos\files\z3\obj\Debug\net48\z3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xiaomi\Source\Repos\files\z3\obj\Debug\net48\z3.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\Source\Repos\files\z3\obj\Debug\net48\z3.AssemblyInfo.cs
+C:\Users\Xiaomi\Source\Repos\files\z3\obj\Debug\net48\z3.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Source\Repos\files\z3\obj\Debug\net48\z3.exe
+C:\Users\Xiaomi\Source\Repos\files\z3\obj\Debug\net48\z3.pdb

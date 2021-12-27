@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "1p+vhOI6NPov/49nUd/H40i9QgSCE5MdcWmmLeXPzBWRPQ0C0rIoL+jjW6+c9xWaM8+PBs/0NlLw7s3LdmzDRA==",
+  "dgSpecHash": "8tI3fxcGJnr9VSfYjUaaBJqvxsVhaS23wdUF1s+a0P2Ii2/xa38fSD9/O89Qvl0YMOtjiEMlq9uHQtGguHGdyg==",
   "success": true,
-  "projectFilePath": "/home/jegorjegor/programming/c#/files/z1/z1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Xiaomi\\Source\\Repos\\files\\z1\\z1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
